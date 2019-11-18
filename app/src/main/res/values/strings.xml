@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="input_name">Input name</string>
+    <string name="your_name_is">Your name is</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+    <string name="your_name">Your name is %1$s.</string>
+</resources>
